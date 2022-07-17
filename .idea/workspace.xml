@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51ade99d-3e2b-42ea-9dee-2ecab8f73275" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/DBContextHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/DBRouterBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/DBRouterConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/DBRouterJoinPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/annotation/DBRouter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/annotation/DBRouterStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/config/DataSourceAutoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/dynamic/DynamicDataSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/dynamic/DynamicMybatisPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/strategy/IDBRouterStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/strategy/impl/DBRouterStrategyHashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wang/middleware/db/router/util/PropertyUtil.java" afterDir="false" />
-    </list>
+    <list default="true" id="51ade99d-3e2b-42ea-9dee-2ecab8f73275" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658047683401</updated>
-      <workItem from="1658047685549" duration="10185000" />
+      <workItem from="1658047685549" duration="13031000" />
     </task>
     <servers />
   </component>
